@@ -1,7 +1,6 @@
 # Lovetourist
 <p><a href="DSC00884.pdf">dragonbacks</a>.</p>
-![dragonbacks](images/DSC00884.JPG)![dragonbacks](images/DSC00882.JPG)
-![dragonbacks](images/DSC00883.JPG)
+![dragonbacks](images/DSC00884.JPG)![dragonbacks](images/DSC00882.JPG)![dragonbacks](images/DSC00883.JPG)
 ![dragonbacks](image/DSC00983.JPG)
 ![dragonbacks](image/DSC00984.JPG)
 ![dragonbacks](image/DSC00985.JPG)
