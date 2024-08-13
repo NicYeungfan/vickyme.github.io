@@ -4,21 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lovetourist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #005b96;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .image-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            background-color: white;
+        }
+    </style>
 </head>
 <body>
     <h1>Lovetourist</h1>
     <p>Confirmation.</p>
-    <div>
+
+    <div class="image-container">
         <img src="confir/nn/nn_20240424111955.jpg" alt="confirmation" />
         <img src="confir/nn/b85750a4-167e-4bee-9e70-4b52ad4df295.jpg" alt="confirmation" />
         <img src="DSC01548.JPG" alt="confirmation" />
         <img src="images/DSC00885.JPG" alt="confirmation" />
-        <img src="Shing_Mun_reservoir_Hong_Kong/DSC01547.JPG" alt="Shing Mun reservoir" />
+        <img src="DSC01548.JPG" alt="confirmation" />
     </div>
 
     <p><a href="DSC00884.pdf">dragonbacks</a></p>
 
-    <div>
+    <div class="image-container">
         <img src="images/DSC00884.JPG" alt="dragonbacks" />
         <img src="images/DSC00883.JPG" alt="dragonbacks" />
         <img src="0.jpg" alt="dragonbacks" />
@@ -103,6 +133,7 @@
         <img src="images/DSC00961.JPG" alt="dragonbacks" />
         <img src="images/DSC00962.JPG" alt="dragonbacks" />
         <img src="images/DSC00963.JPG" alt="dragonbacks" />
+       ```html
         <img src="images/DSC00964.JPG" alt="dragonbacks" />
         <img src="images/DSC00965.JPG" alt="dragonbacks" />
         <img src="images/DSC00966.JPG" alt="dragonbacks" />
