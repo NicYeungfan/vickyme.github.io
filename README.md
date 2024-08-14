@@ -23,9 +23,10 @@
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
+            justify-content: space-between;
         }
         .image-container img {
-            max-width: 100%;
+            width: calc(33.333% - 10px); /* Make each image take up 1/3 of the container minus the gap */
             height: auto;
             border: 1px solid #ddd;
             border-radius: 4px;
@@ -133,7 +134,6 @@
         <img src="images/DSC00961.JPG" alt="dragonbacks" />
         <img src="images/DSC00962.JPG" alt="dragonbacks" />
         <img src="images/DSC00963.JPG" alt="dragonbacks" />
-       ```html
         <img src="images/DSC00964.JPG" alt="dragonbacks" />
         <img src="images/DSC00965.JPG" alt="dragonbacks" />
         <img src="images/DSC00966.JPG" alt="dragonbacks" />
